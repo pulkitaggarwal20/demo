@@ -3,6 +3,7 @@
 #include <time.h>
 
 // Function declarations
+//Practicing Git and Github
 void numberGuessing(int *score);
 void rockPaperScissors(int *score);
 void detectiveMystery(int *score);
