@@ -1,9 +1,8 @@
-#include <stdio.h>
+#include <stdio.h> //Gaming Arcade Game
 #include <stdlib.h>
 #include <time.h>
 
 // Function declarations
-//Practicing Git and Github
 void numberGuessing(int *score);
 void rockPaperScissors(int *score);
 void detectiveMystery(int *score);
