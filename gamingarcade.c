@@ -1,5 +1,5 @@
-#include <stdio.h> //Gaming Arcade Game
-#include <stdlib.h> //Learning Git and Github
+#include <stdio.h> 
+#include <stdlib.h> 
 #include <time.h>
 
 // Function declarations
